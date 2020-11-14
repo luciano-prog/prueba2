@@ -1,0 +1,6 @@
+*.png
+*.jpeg
+*.jpg
+node_moduels/
+*.pdf
+.env
